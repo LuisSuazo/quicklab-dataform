@@ -11,4 +11,4 @@ select
   date as award_timestamp,
   user_id
 from
-  ${ref("badges")
+  ${ref("badges")}
